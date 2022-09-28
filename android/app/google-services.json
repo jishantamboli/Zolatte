@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828948297899",
+    "project_id": "zolatte-83e62",
+    "storage_bucket": "zolatte-83e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828948297899:android:d94a5ade3c516f439ddfee",
+        "android_client_info": {
+          "package_name": "com.example.zolatte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828948297899-t7gokhtd3cn8q5cfk94ir68kv44m1ags.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zolatte",
+            "certificate_hash": "5adb4230caa4e7eee6b33a818d2226de79729bc7"
+          }
+        },
+        {
+          "client_id": "828948297899-smk3n06ggalid183c70tjd3t8oq4jh92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZVtfRn5Px-Eg3We4xcusYP3TUImPAGqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828948297899-smk3n06ggalid183c70tjd3t8oq4jh92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
